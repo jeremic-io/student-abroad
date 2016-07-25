@@ -40,9 +40,9 @@
   <!-- Main Content -->
   <main class="main-content">
     <!-- Intro -->
-    <section class="intro">
+    <div class="intro">
 
-    </section>
+    </div>
 
     <!-- About -->
     <div class="wrapper">
